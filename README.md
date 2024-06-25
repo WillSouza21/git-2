@@ -1,10 +1,15 @@
-/*Aula de Git 2*/
+## Aula de Git 2
 
-git init
-git add
-Teste de commit
-.
-.
-.
-- Colaboradores 
-William, Luis, Hermano
+- Comandos utilizados
+git branch
+git merge
+git pull
+git switch
+git reset
+git remote
+git restore 
+
+## Colaboradores 
+- William 
+- Luis 
+- Hermano
